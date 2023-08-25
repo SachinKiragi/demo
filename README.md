@@ -1,2 +1,3 @@
 # demo
-This is demo repo
+This is my first repository
+Author-Sachin Kiragi
